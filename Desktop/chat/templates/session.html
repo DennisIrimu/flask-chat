@@ -10,5 +10,7 @@
     <input type="text" class="message" placeholder="Messages"/>
     <input type="submit"/>
   </form>
+<script>
+  var socket = io.connect('http://' + document.domain + ':' + location.port);
 </body>
 </html>
