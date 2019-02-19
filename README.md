@@ -12,7 +12,7 @@ Run the server on your terminal by running:
 
 ```bash
 cd
-python3 run.py
+python3 main.py
 ```
 This should run on your local server and you can comunicate on different tabs,windows or browsers
 
